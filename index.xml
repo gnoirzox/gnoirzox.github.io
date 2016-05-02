@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gnoirzox&#39;s DevBlog</title>
+    <link>http://gnoirzox.github.io/</link>
+    <description>Recent content on Gnoirzox&#39;s DevBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Mar 2016 18:53:12 +0000</lastBuildDate>
+    <atom:link href="http://gnoirzox.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to my Blog</title>
+      <link>http://gnoirzox.github.io/post/welcome/</link>
+      <pubDate>Sun, 13 Mar 2016 18:53:12 +0000</pubDate>
+      
+      <guid>http://gnoirzox.github.io/post/welcome/</guid>
+      <description>&lt;p&gt;Hello there,&lt;/p&gt;
+
+&lt;p&gt;The purpose of this silly blog will be to simply show my resume/portfolio and my thoughts regarding the software engineering, computer science and some machine learning/data science subjects.&lt;/p&gt;
+
+&lt;p&gt;This is basically another silly random developer blog.&lt;/p&gt;
+
+&lt;p&gt;Gnoirzox&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
