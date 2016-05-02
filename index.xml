@@ -25,5 +25,17 @@
 </description>
     </item>
     
+    <item>
+      <title>About me</title>
+      <link>http://gnoirzox.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gnoirzox.github.io/about/</guid>
+      <description>&lt;p&gt;Hello,&lt;/p&gt;
+
+&lt;p&gt;I am just a regular web developer trying out the Hugo static website generator. You will find more informations about me in a forthcoming future.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
